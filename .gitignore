@@ -1,5 +1,6 @@
 *.orig
 *.rej
+*.o
 dmenu.o
 drw.o
 stest.o
